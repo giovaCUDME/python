@@ -1,0 +1,18 @@
+#giovanni molinet, 10/03/25
+
+print("./____________________________________________________________\.")
+print("|                                             Marzo 2025       |")
+print("|                                         san ramon, santiago  |")
+print("| Hermoso gio.                                                 |")
+print("|                                                              |")
+print("| Espero te encuentres muy bien, solo quiero decirte que no    |")
+print("| no te rindas, aunque te sientas vacio, aunque gente a la     |")
+print("| que amas se vaya de tu vida, se fuerte y comviertete en      |")
+print("| alguien del que estes orgulloso y que todos los sentimientos |")
+print("| que sientas en tu peor momento sean como impulso hacer mejor |")
+print("| manten la frente en alto y no dejes que te pasen por encima  |")
+print("| se que lo lograras, se que podemos ser mas de lo que somos   |")
+print("| tu y yo juntos, no te hundas en la desesperacion.            |")
+print("|                                                              |")
+print("|                                      Atte: Tu yo del pasado  |")
+print(".\____________________________________________________________/.")
