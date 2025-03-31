@@ -4,7 +4,7 @@
 nota = 70
 
 if nota > 70:
-    print('paso uyu!!!!!')
+    print('paso mi chanchito')
 elif nota >60:
     print('paso')
 elif nota >50:
