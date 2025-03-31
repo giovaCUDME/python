@@ -16,4 +16,11 @@ print(tareas[0])
 print(tareas[1])
 
 #3 obtener un subconjunto de tareas usando slicing (rebanando)
-print(tareas[0:2])
+print(tareas[1:4])
+
+#4 error detectado
+indice = tareas.index("llamar a papa")
+
+#5 modofica la lista para añadir una nueva tarea
+tareas.insert(3,"admirar el paisaje 🏙️")
+print(tareas)
