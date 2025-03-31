@@ -2,7 +2,7 @@
 #31/03/25
 #soy un helicoptero
 
-ph = 5
+ph = int(input('ingresa el nivel de ph (0-14):'))
 
 if ph > 7:
     print('basico')
