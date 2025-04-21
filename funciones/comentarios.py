@@ -11,3 +11,5 @@ def mi_funcion_suma(a, b):
 mi_funcion_suma(2, 6)
 
 print(mi_funcion_suma(2, 6))
+
+print(mi_funcion_suma.__doc__)
