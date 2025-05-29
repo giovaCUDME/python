@@ -1,5 +1,6 @@
 #giovanni molinet
 #29/05/2025
+#un modulo o 
 
 class TarjetaCredito:
     tarjetas = []
