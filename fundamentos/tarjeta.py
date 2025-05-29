@@ -33,9 +33,14 @@ class tarjetaCredito:
         self.saldo_pagar += self.saldo_pagar *self.interes
         print(f"interes cobrado. Nuevo saldo:${self.saldo_pagar:,.2f}")
         return self
+    
+    @classmethod
+    def mostrar_todas_tarjetas(cls):
+        for i, tarjeta in enumerate (cls.tarjeta, 1)
+        print(f"tarjeta {i:} saldo:${tarjeta.saldo_pagar:,}, limite:${tarjeta.limite_credito:,}, interes:{tarjeta.interes:.2%}")
 
 tarjeta1 = tarjetaCredito(limite_credito=200000, interes = 0.02)
 tarjeta1.comprar(50000)
 tarjeta1.pago(30000)
 tarjeta1.mostrar_info_tarjeta()
-tarjeta1.cobrar_interes()
+tarjeta1.cobrar_interes() 
