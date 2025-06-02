@@ -1,7 +1,6 @@
 #giovanni molinet
 #esto es un archivo y un modulo
 
-from tarjeta import TarjetaCredito
 
 
 class Usuario:
